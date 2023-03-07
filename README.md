@@ -26,7 +26,7 @@ I am Dhruv Mishra, currently pursuing B.Tech in computer science and engineering
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={DhruvMishra1826}
+<img src="{[BadgeURLHere](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={DhruvMishra1826}&theme={theme_name})}" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv_Mishra_1826&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
