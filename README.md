@@ -4,7 +4,7 @@
 
 I am Dhruv Mishra, currently pursuing B.Tech in computer science and engineering from IIT BHU-Varanasi. I will be upcoming summer intern at cisco in summers of 2023. I am a full stack MERN developer. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruv-mishra-5b7a611a8/)](https://www.linkedin.com/in/dhruv-mishra-5b7a611a8/)
+[![Linkedin Badge](https://img.shields.io/badge/-Dhruv Mishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruv-mishra-5b7a611a8/)](https://www.linkedin.com/in/dhruv-mishra-5b7a611a8/)
 [![Gmail Badge](https://img.shields.io/badge/-mishra.x.dhruv18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mishra.x.dhruv18@gmail.com)](mailto:mishra.x.dhruv18@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/profile.php?id=100009168005339.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009168005339/)](https://www.facebook.com/profile.php?id=100009168005339/)
 
